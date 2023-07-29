@@ -13,6 +13,8 @@ Skills: Html / Css / Javascript / ReactJs / Redux / Redux Toolkit / NodeJs / Exp
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/balaji-aadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/balajiaadi2000/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://balajiaadi-portfolio.netlify.app/about)  
 
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)]([https://www.youtube.com/watch?v=VID](https://youtu.be/gx3UHNeHqb8))
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-aadi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/balaji-aadi)  
