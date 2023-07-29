@@ -7,10 +7,15 @@ Adaptable back-end developer with a strong track record of creating efficient, s
 
 Skills: Html / Css / Javascript / ReactJs / Redux / Redux Toolkit / NodeJs / ExpressJs / MongoDB / MySql / TailwindCss
 
+- 📫 How to reach me:  balajiaadi2000@gmail.com 
 - ⚡ Fun fact: I am a Best Coder 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/balaji-aadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/balajiaadi2000/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://balajiaadi-portfolio.netlify.app/about)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-aadi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/balaji-aadi)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=balaji-aadi)  
 
